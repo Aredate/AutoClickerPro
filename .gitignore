@@ -1,0 +1,15 @@
+# Python 编译缓存
+__pycache__/
+*.py[cod]
+
+# PyInstaller 打包生成的文件 (不要上传这些！)
+build/
+*.spec
+
+# 虚拟环境 (如果你有)
+venv/
+.env
+
+# IDE 配置 (可选)
+.vscode/
+.idea/
