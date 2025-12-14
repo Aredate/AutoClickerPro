@@ -4,6 +4,7 @@ __pycache__/
 
 # PyInstaller 打包生成的文件 (不要上传这些！)
 build/
+disk/
 *.spec
 
 # 虚拟环境 (如果你有)
